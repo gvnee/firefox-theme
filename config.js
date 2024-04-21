@@ -139,12 +139,12 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'interpreter',
-					link: 'https://craftinginterpreters.com/',
-				},
-				{
 					name: 'stackoverflow',
 					link: 'https://stackoverflow.com/',
+				},
+				{
+					name: 'interpreter',
+					link: 'https://craftinginterpreters.com/',
 				},
 				{
 					name: 'spotify',
@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'student',
-					link: 'student.must.edu.mn',
+					name: 'instagram',
+					link: 'https://www.instagram.com/',
 				},
 				{
-					name: 'lms',
-					link: 'https://lms.must.edu.mn/',
+					name: 'student',
+					link: 'student.must.edu.mn',
 				},
 				{
 					name: 'arch',
 					link: 'https://archlinux.org/',
 				},
 				{
-					name: 'instagram',
-					link: 'https://www.instagram.com/',
+					name: 'lms',
+					link: 'https://lms.must.edu.mn/',
 				},
 			],
 		},
